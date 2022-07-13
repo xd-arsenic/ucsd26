@@ -1,0 +1,158 @@
+.u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Geisel-Library-UCSanDiego-ErikJepsen_1280x800.jpg");
+  background-position: 50% 50%;
+  height: 1000px;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  width: 580px;
+  margin: 79px auto 0;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: 81px auto 0 408px;
+}
+
+.u-section-1-1 .u-btn-2 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: -45px 430px 0 auto;
+}
+
+.u-section-1-1 .u-btn-3 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: 47px auto 0 398px;
+}
+
+.u-section-1-1 .u-btn-4 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: -45px 417px 0 auto;
+}
+
+.u-section-1-1 .u-btn-5 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: 47px auto 0 395px;
+}
+
+.u-section-1-1 .u-btn-6 {
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  background-image: none;
+  margin: -45px 429px 0 auto;
+}
+
+.u-section-1-1 .u-btn-7 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: 47px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-btn-1 {
+    margin-left: 208px;
+  }
+
+  .u-section-1-1 .u-btn-2 {
+    margin-right: 230px;
+  }
+
+  .u-section-1-1 .u-btn-3 {
+    margin-left: 198px;
+  }
+
+  .u-section-1-1 .u-btn-4 {
+    margin-right: 217px;
+  }
+
+  .u-section-1-1 .u-btn-5 {
+    margin-left: 195px;
+  }
+
+  .u-section-1-1 .u-btn-6 {
+    margin-right: 229px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1-1 .u-btn-2 {
+    margin-right: 10px;
+  }
+
+  .u-section-1-1 .u-btn-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1-1 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1-1 .u-btn-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1-1 .u-btn-6 {
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1-1 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1-1 .u-btn-6 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: 340px;
+  }
+}.u-block-8e8a-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-8e8a-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-8e8a-4 {
+  position: absolute;
+  right: 0;
+}
